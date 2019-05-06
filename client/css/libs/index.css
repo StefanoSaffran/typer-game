@@ -1,0 +1,23 @@
+.card{
+	width: 49%;
+	display: inline-block;
+	vertical-align: top;
+}
+
+#playButton{
+	width: 150px;
+	display: block;
+	margin: 50px auto;
+}
+
+.gameImage {
+	border: 2px solid gray;
+}
+
+.slick-prev:before, .slick-next:before{
+    color: black;
+}
+
+.slider {
+    height: auto;
+}

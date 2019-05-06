@@ -1,0 +1,66 @@
+body {
+    overflow: scroll;
+}
+
+.textArea {
+    height: 8.5rem;
+    border: 3px solid black;
+}
+
+.phrase .textArea{
+    font-size: 1.5em;
+}
+
+.disabledTextArea[disabled] {
+    background-color: lightgray;
+}
+
+.icons {
+    vertical-align: middle;
+}
+
+.correctBorder {
+    border: 3px solid green;
+}
+
+.falseBorder {
+    border: 3px solid red;
+}
+
+.scoreboard {
+    display: none;
+}
+
+#message {
+    display: none;
+    
+}
+
+.errorColor {
+    color: red;
+}
+
+.successColor {
+    color: green;
+}
+
+#phrase-id{
+    width: 40px;
+}
+
+#sync-button {
+    float: right;
+}
+
+.select-users{
+    display:inline-block;
+}
+
+#users{
+    display:block;
+}
+
+.selectize-input {
+    width: 150px;
+    vertical-align: middle;
+}
