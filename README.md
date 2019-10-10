@@ -2,8 +2,6 @@
 <img src="client/img/logo.png" />
 </p>
 
-# TodoList <br/>
-
 ### This is a study project only and was developed folowing the JQuery course from Alura :books:
 
 ## :electric_plug: Built with
@@ -17,8 +15,8 @@
 
 <hr />
 
-<img src="client/img/typer-game01.png" />
-<img src="client/img/typer-game02.png" />
+<img src="client/img/typer-game-01.png" />
+<img src="client/img/typer-game-02.png" />
 
 <hr />
 
