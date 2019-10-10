@@ -2,16 +2,20 @@
 <img src="client/img/logo.png" />
 </p>
 
-### This is a study project only and was developed folowing the JQuery course from Alura :books:
+### This is a study project only and was developed following the JQuery course from Alura :books:
 
 ## :electric_plug: Built with
 
-- HTML5
-- CSS3
-- JavaScript
-- JQuery
-- Materialize
-- Selectize
+- Frontend
+  - HTML5
+  - CSS3
+  - JavaScript
+  - JQuery
+  - Materialize
+  - Selectize
+  
+- Backend
+  - provided by Alura
 
 <hr />
 
